@@ -1,0 +1,10 @@
+[package]
+name = "gsshaskpass"
+version = "0.1.0"
+authors = ["Adilson Schmitt Junior <adilsonschj@gmail.com>"]
+
+[dependencies]
+
+[dependencies.gtk]
+version = "0.4.1"
+features = ["v3_10"]
